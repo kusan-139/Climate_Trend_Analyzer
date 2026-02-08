@@ -235,6 +235,26 @@ streamlit run dashboard/app.py
 * Interactive dashboard development
 * End-to-end project structuring
 
+---
+
+## 👤 Author
+
+**Kusan Chakraborty**  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+You are free to:
+- Use
+- Modify
+- Distribute
+
+This software, provided proper credit is given to the author.
+
+© 2026 Kusan Chakraborty
 
 ## 📌 Conclusion
 
