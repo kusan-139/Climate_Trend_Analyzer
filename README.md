@@ -1,4 +1,3 @@
-```markdown
 # 🌍 Climate Trend Analyzer
 
 A complete **data science project** that analyzes **country-wise climate trends** using a single consolidated dataset.  
